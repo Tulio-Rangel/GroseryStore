@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:grocery_store_app/pages/intro_page.dart';
 import 'package:provider/provider.dart';
-
 import 'model/cart_model.dart';
 
 void main() {
